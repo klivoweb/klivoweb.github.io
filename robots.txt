@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://klivoweb.github.io/sitemap.xml
