@@ -1,4 +1,4 @@
-/* Demos "pro": horario en vivo, mapa, hoja de propuesta, «Cámbiala tú mismo» y Radar (avisos a Klivo vía ntfy).
+/* Demos "pro": horario en vivo, mapa, hoja de propuesta, «Cámbiala tú mismo» y Radar (avisos a Riotz vía ntfy).
    Sin cookies. Solo se guarda en este navegador lo que el propio negocio edita (para no perderlo al recargar). */
 (function () {
   "use strict";
